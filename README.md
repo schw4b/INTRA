@@ -4,7 +4,7 @@
 
 
 Filename/Sequence | Comment | Resolution | Volumes
---- | --- | ---
+--- | --- | --- | ---
 1_20180820085536_localizer.nii|sagittal|512x512x1|1
 1_20180820085536_localizera.nii|axial|512x512x1|1
 1_20180820085536_localizerb.nii|coronal|512x512x1|1
